@@ -15,7 +15,6 @@ Proficient in developing full-stack applications, data analysis, and optimizing 
 
 I enjoy tackling complex problems with code, from denoising fluid flow data to community detection in networks.
 
-> **Fun fact:** I once reduced computation costs by 40% using PINNs—proving that innovation can make heavy tasks lighter!
 
 ---
 
@@ -36,30 +35,6 @@ I enjoy tackling complex problems with code, from denoising fluid flow data to c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
 </div>
-
----
-
-## 📈 GitHub Stats
-
-![Avinash3570's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avinash3570&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Avinash3570&theme=radical)
-
----
-
-## 🔥 GitHub Profile Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Avinash3570&theme=radical&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🏆 Key Projects
-
-- **LawConnect**: [Repo Link](#)  
-- **BikeNet**: [Repo Link](#)  
-- **Data Driven Fluid Flow Analysis**: [Repo Link](#)  
-- **NeuroVision**: [Repo Link](#)  
-
-Pin your top repositories for quick access and visibility!
 
 ---
 
