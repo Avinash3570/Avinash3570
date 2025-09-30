@@ -1,4 +1,4 @@
-# Avinash Kumar 👋  
+# 👋 Hello, I'm Avinash Kumar   
 **AI Developer | ML Enthusiast | IIT Jodhpur**
 
 ---
