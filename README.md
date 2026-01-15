@@ -5,7 +5,7 @@
 
 ## 🤖 About Me
 
-I'm Avinash Kumar, a B.Tech student in Mechanical Engineering at IIT Jodhpur (2022 - Present).
+I'm Avinash Kumar, a B.Tech student at IIT Jodhpur (2022 - Present).
 
 Passionate Software and AI developer with hands-on experience in machine learning, NLP, and building scalable automation pipelines.  
 Skilled in applying ML to real-world problems through internships and projects, including RAG pipelines, sentiment analysis, and topology optimization.  
